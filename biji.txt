@@ -1,8 +1,0 @@
-git init         初始化
-git add			 增加
-git status		查看状态
-git commit -m 'first commit' 文件名
-git config --global user.name 名称
-git config --global user.email 邮箱
-git config --list      查看个人信息
-git log                查看库信息
